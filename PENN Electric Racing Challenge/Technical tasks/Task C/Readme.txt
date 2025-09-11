@@ -1,0 +1,1 @@
+It is the second time for me to write a Encoder/Decoder and first time was in python with libraries. So I learnt it but unfortunately I had some circumstances I could do encoding for strings/characters. However if I got any deadline extension I can write a better one.
