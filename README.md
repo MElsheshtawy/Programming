@@ -10,5 +10,3 @@ I use platforms like Codeforces, LeetCode, AtCoder, and HackerRank to practice a
 - 🌐 [LeetCode](https://leetcode.com/u/Melsheshtawy/)
 - 🌐 [Vjudge](https://vjudge.net/user/MElsheshtawy)
 ---
-
-## 📂 Repository Structure
